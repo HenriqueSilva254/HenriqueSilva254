@@ -6,7 +6,7 @@
 
 <p align="center">I ❤️ solve great challenges using tech.</p>
 <p>
-From backend development to frontend development using ReactJS, I am passionate to discover new stuffs and use them to create high quality solutions. Today, I'm a full stack mid-level developer focused on web development.
+From backend development using Node to frontend development using ReactJS, I am passionate to discover new stuffs and use them to create high quality solutions. Today, I'm a full stack mid-level developer focused on web development.
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
